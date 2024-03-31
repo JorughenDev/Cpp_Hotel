@@ -1,0 +1,22 @@
+---
+:id: 215878082
+:submitters:
+- :name: Jorge Eduardo Melgarejo Castillo
+  :email: jorge.melgarejo@utec.edu.pe
+- :name: 'Harold Espinoza Huamani '
+  :email: harold.espinoza@utec.edu.pe
+- :name: 'Luis Fernando Lopez Chambi '
+  :email: luis.lopez.c@utec.edu.pe
+- :name: Estefano Jesus Bolaños Gainsborg
+  :email: estefano.bolanos@utec.edu.pe
+- :name: Lyam Santiago Zuñiga Balarezo
+  :email: lyam.zuniga@utec.edu.pe
+- :name: Jorge Alexander Leon Villarreyes
+  :email: jorge.leon.v@utec.edu.pe
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-11-28 22:45:31.500154000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-11-28 14:45:31.500154000 Z
+:status: processed
+:score: 16.0

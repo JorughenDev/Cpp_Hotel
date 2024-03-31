@@ -1,0 +1,72 @@
+101, privada, 1, 0, normal, 60.00
+102, privada, 1, 0, normal, 60.00
+103, privada, 1, 0, king, 70.00
+104, privada, 1, 0, king, 70.00
+201, privada, 2, 1, normal, 75.00
+202, privada, 2, 1, normal, 75.00
+203, privada, 2, 1, king, 85.00
+204, privada, 2, 1, king, 85.00
+301, compartida, 3, 8, 0, 101, abajo, 50.00
+301, compartida, 3, 8, 0, 102, arriba, 45.50
+301, compartida, 3, 8, 0, 103, abajo, 50.00
+301, compartida, 3, 8, 0, 104, arriba, 45.50
+301, compartida, 3, 8, 0, 105, abajo, 50.00
+301, compartida, 3, 8, 0, 106, arriba, 45.50
+301, compartida, 3, 8, 0, 107, abajo, 50.00
+301, compartida, 3, 8, 0, 108, arriba, 45.50
+302, compartida, 3, 8, 0, 109, abajo, 50.00
+302, compartida, 3, 8, 0, 110, arriba, 45.50
+302, compartida, 3, 8, 0, 111, abajo, 50.00
+302, compartida, 3, 8, 0, 112, arriba, 45.50
+302, compartida, 3, 8, 0, 113, abajo, 50.00
+302, compartida, 3, 8, 0, 114, arriba, 45.50
+302, compartida, 3, 8, 0, 115, abajo, 50.00
+302, compartida, 3, 8, 0, 116, arriba, 45.50
+303, compartida, 3, 8, 1, 117, abajo, 55.50
+303, compartida, 3, 8, 1, 118, arriba, 50.00
+303, compartida, 3, 8, 1, 119, abajo, 55.50
+303, compartida, 3, 8, 1, 120, arriba, 50.00
+303, compartida, 3, 8, 1, 121, abajo, 55.50
+303, compartida, 3, 8, 1, 122, arriba, 50.00
+303, compartida, 3, 8, 1, 123, abajo, 55.50
+303, compartida, 3, 8, 1, 124, arriba, 50.00
+304, compartida, 3, 8, 1, 125, abajo, 55.50
+304, compartida, 3, 8, 1, 126, arriba, 50.00
+304, compartida, 3, 8, 1, 127, abajo, 55.50
+304, compartida, 3, 8, 1, 128, arriba, 50.00
+304, compartida, 3, 8, 1, 129, abajo, 55.50
+304, compartida, 3, 8, 1, 130, arriba, 50.00
+304, compartida, 3, 8, 1, 131, abajo, 55.50
+304, compartida, 3, 8, 1, 132, arriba, 50.00
+401, compartida, 4, 4, 0, 201, abajo, 60.00
+401, compartida, 4, 4, 0, 202, arriba, 55.00
+401, compartida, 4, 4, 0, 203, abajo, 60.00
+401, compartida, 4, 4, 0, 204, arriba, 55.00
+402, compartida, 4, 4, 0, 205, abajo, 60.00
+402, compartida, 4, 4, 0, 206, arriba, 55.00
+402, compartida, 4, 4, 0, 207, abajo, 60.00
+402, compartida, 4, 4, 0, 208, arriba, 55.00
+403, compartida, 4, 4, 0, 209, abajo, 60.00
+403, compartida, 4, 4, 0, 210, arriba, 55.00
+403, compartida, 4, 4, 0, 211, abajo, 60.00
+403, compartida, 4, 4, 0, 212, arriba, 55.00
+404, compartida, 4, 4, 0, 213, abajo, 60.00
+404, compartida, 4, 4, 0, 214, arriba, 55.00
+404, compartida, 4, 4, 0, 215, abajo, 60.00
+404, compartida, 4, 4, 0, 216, arriba, 55.00
+501, compartida, 5, 4, 1, 301, abajo, 70.00
+501, compartida, 5, 4, 1, 302, arriba, 65.00
+501, compartida, 5, 4, 1, 303, abajo, 70.00
+501, compartida, 5, 4, 1, 304, arriba, 65.00
+502, compartida, 5, 4, 1, 305, abajo, 70.00
+502, compartida, 5, 4, 1, 306, arriba, 65.00
+502, compartida, 5, 4, 1, 307, abajo, 70.00
+502, compartida, 5, 4, 1, 308, arriba, 65.00
+503, compartida, 5, 4, 1, 309, abajo, 70.00
+503, compartida, 5, 4, 1, 310, arriba, 65.00
+503, compartida, 5, 4, 1, 311, abajo, 70.00
+503, compartida, 5, 4, 1, 312, arriba, 65.00
+504, compartida, 5, 4, 1, 313, abajo, 70.00
+504, compartida, 5, 4, 1, 314, arriba, 65.00
+504, compartida, 5, 4, 1, 315, abajo, 70.00
+504, compartida, 5, 4, 1, 316, arriba, 65.00
